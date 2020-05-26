@@ -1,0 +1,75 @@
+body
+{
+	
+	background-color: #aeb6bf ;
+	background-image: url('iitdelhi_lite.png');   /* no direct property to change opacity of background image*/
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: bottom;
+	text-align: center;    /* lack of knowledge of <div>*/
+	color: black;
+
+}
+h1
+{
+	background-color:#fcf3cf;
+	background-image: url('img2.jpg');
+	color:black;
+	margin-top: 1.5rem;
+	margin-bottom: 0.5rem;
+	padding: 1.5rem;
+	border: 1px dotted black;
+}
+h2
+{
+	background-color:;
+	color:#cb4335;
+	margin-top:2rem;
+	margin-bottom:0.3rem;
+}
+h3
+{
+	background-color:;
+	color:#cb4335;
+	margin-top:2rem;
+	margin-bottom:0.3rem;
+
+}
+p
+{
+	margin-top:0.5rem;
+	margin-bottom:1rem;
+
+}
+footer
+{
+	margin-top:2rem;
+	margin-bottom:2rem;
+}
+hr
+{
+	margin-top:2rem;
+	margin-bottom:2rem;
+}
+a
+{
+	color:blue;
+	text-decoration: none;
+}
+a:hover
+{
+	color:red;
+	text-decoration: none;
+}
+a:visited
+{
+	color:purple;
+}
+img
+{
+	opacity: 0.8;
+}
+img:hover
+{
+	opacity:1;
+}
